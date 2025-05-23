@@ -1,4 +1,4 @@
-# app-streamlit
+# app-streamlit-nube
 
 1. Instalar en el entorno los paquetes del archivo requirements.txt
 
